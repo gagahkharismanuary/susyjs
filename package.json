@@ -17,5 +17,22 @@
     "expect": "^1.14.0",
     "webpack": "^1.12.14"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iaziz/susy.git"
+  },
+  "keywords": [
+    "susy",
+    "susyjs",
+    "reactjs",
+    "reactgrid",
+    "reactresponsive",
+    "radium",
+    "radiumjs",
+    "susygrid",
+    "javascriptresponsive",
+    "responsivejs",
+    "jsgrid"
+  ]
 }
