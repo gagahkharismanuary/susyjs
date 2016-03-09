@@ -9,7 +9,7 @@ Works great with Radium.
 
 ```
 npm install raduim --save
-npm install https://github.com/iaziz/susyjs --save
+npm install susyjs --save
 ```
 
 ##Settings
