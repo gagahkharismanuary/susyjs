@@ -20,7 +20,7 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/iaziz/susy.git"
+    "url": "https://github.com/iaziz/susyjs.git"
   },
   "keywords": [
     "susy",
