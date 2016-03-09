@@ -1,15 +1,15 @@
-#Susy
+#Susy.js
 
 All Thanks goes to sass [susy](https://github.com/oddbird/susy)
 
 Susy is Now in JavaScript.
-Its is For Awesome Reactjs.
+Its is For Awesome React.js.
 Works great with Radium.
 
 
 ```
 npm install raduim --save
-npm install https://github.com/iaziz/susy --save
+npm install https://github.com/iaziz/susyjs --save
 ```
 
 ##Settings
