@@ -97,7 +97,7 @@ import React from 'react';
 
 import { StyleRoot } from 'radium';
 
-import { container, SpanColumns, atBreakpoint } from 'susy.js';
+import { container, SpanColumns, atBreakpoint } from 'susyjs';
 
 export let App = React.createClass({
 
