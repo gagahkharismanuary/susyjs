@@ -1,5 +1,5 @@
 {
-  "name": "susy.js",
+  "name": "susyjs",
   "version": "0.1.0",
   "description": "susy.js is powerfull tool to create responsive layout for react component.",
   "main": "index.js",
